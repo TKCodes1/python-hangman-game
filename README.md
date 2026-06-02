@@ -4,7 +4,7 @@ A learning Python project where the player guesses letters to find the entire hi
 ---
 
 ## 📙Features:
-- Selects a random word from a library of 100 words.
+- Selects a random word from a library of 100+ words.
 - Win/loss conditions
 - Hidden word that updates as you guess
 - Duplicate letter detection
