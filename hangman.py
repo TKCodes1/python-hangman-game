@@ -1,6 +1,5 @@
 import random
-
-words = ("chicken","water","love","monkey","tickle","monsters")
+from listOfWords import *
 
 hangman_art = {0: ("   ",
                    "   ",
